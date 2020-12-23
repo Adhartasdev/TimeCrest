@@ -50,6 +50,11 @@ Government authorities goals are:
 
 ### Developer & Business Goals
 
+* This project will enable the developer to propose his services to diverse funds whom wish to push their efforts on the digital presentation. 
+* The project should showcase deisgn capacities and the ability to understand a specific topic.
+* This project should embody the statute of a real fund, with clear factual information and logical structure. 
+* Often it is the case that investors look for funds they can trust, but the true Call-to-Action is done through the first contact. As you are not buying anything, but investing in a fund. There is no true action until the conversation begins and an initial investment policy is being drafted. Therefore, this website's primary goal is to demonstrate track record, entrusted services and volume. 
+
 ### User Stories
 
 As an investor looking to allocate my capital, I want:
@@ -71,6 +76,7 @@ As a government officer, I want:
 * to be able to communicate directly with TimeCrest, no matter which page I am on.  
 
 ### Design Choices
+The general design choices have been made around simplicity, authenticity and trust. In finance, it is important to stay on the simple edge of design. However, that is what makes it tricky, the colours red, orange, yellow and even balck are not often used as overarching colours. It is important to stay on the light and blue and of the spectrum. The same goes with font-type, this project has aimed to differentiate itself from the competition by employing less serif oriented fonts and go with a more round variety. 
 #### Fonts
 
 * The primary font is Montserrat due to its easy going round aspect. It is an easy-read, round, class and nice to read letter type. At the same time, it is also distinguising the website in regards to its market competition, in that they use more Serif oriented and square fonts.
