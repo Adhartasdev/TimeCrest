@@ -1,10 +1,50 @@
 # TimeCrest
-Real Estate Fund Website
+TimeCrest is the website of an Alternative Real Estate fund focused on Commercial Real Estate. It is made for both marketing and asset trading purposes. As all websites in the industry, it is there to show authenticity, confidence and control. 
 
-Essentially, this part is your sales pitch.
- 
 ## UX
  
+### Project Goals
+The primary goal of TimeCrest is to provide profitable fund management for its clients and thus to generate consistent returns on longer term basis.  It also needs to appear as a beacon of stability and authenticity to the market. As the business runs on investing, buying and selling assets on a pan-european basis, it needs to demonstrate a clear offering and field of activities. The information needs to be displayed in English and should stay relatively short and to the point. 
+
+There are three different users of the website: 
+
+* Investors prospecting funds to manage their capital
+* Asset Buyers & Sellers
+* Government Authorities
+
+#### Investor Goals
+The central target audience for TimeCrest are investors who are looking to commit capital above EUR 350.000. 
+
+Investor goals are:
+
+* Access necessary information fast
+* Ability to contact on every page 
+* See important data on fund first
+* Understand the focus of the fund
+* Understand the deal-types realised
+* Feel empowered by history and strategy
+
+
+#### Asset Buyers & Sellers Goals
+The secondary audience of TimeCrest are buyers and sellers willing to trade assets with TimeCrest. These are put in the same category, as they are looking for the same information. 
+
+Asset buyers & seller goals are:
+
+* Indentify exaclty which assets are targetted by TimeCrest
+* Identify the criteria & transaction types that are being considered
+* Ability to contact on every page 
+* See important data on fund 
+
+
+#### Government Authorities Goals
+
+
+### Developer & Business Goals
+### User Stories
+### Design Choices
+### Wireframes
+
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
