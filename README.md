@@ -38,19 +38,52 @@ Asset buyers & seller goals are:
 
 #### Government Authorities Goals
 
+The least targeted audience of TimeCrest are government authorities. As they supervise the financial markets and funds, they need to be able to see, communicate and fact-check the information displayed on TimeCrest. 
+
+Government authorities goals are:
+
+* To fact check true information on TimeCrest
+* To collect activity information on TimeCrest
+* To obtain a true number on Assets Under Management fast
+* To be able to communicate with TimeCrest via its website.
+
 
 ### Developer & Business Goals
+
 ### User Stories
+
+As an investor looking to allocate my capital, I want:
+* to see a serious website that demonstrates trust and authenticity, so that I can consider them for allocating my capital.
+* an easy navigation through the website, so that I do not have to configure each time how to access my desired information.
+* to see excalty how much capital they manage and how many investors they have, so that I can feel secure and reassured.
+* to understand exactly which services they offer, so that I can plan my personal strategy, should I contact them. 
+* to be able to contact them quickly when I am convinced and not have to search everywhere for the contact form.
+
+As a buyer or seller of assets, I want:
+* to directly understand whether they trade in the same assets as I do, so that I can determine if I am in the right place to do business.
+* the ability to reach out at every page, so that I do not have to search everywhere for the contact form.
+* to know how big they are, so that I do not waste time for both parties criteria- & scope- wise. 
+* to understand what type of deal they make before contacting them, so that I can determine whether or not it is of interest.
+* to know which to type of assets they own, so that I can determine or not whether they are of interest.
+
+As a government officer, I want:
+* to know their fund size and check the fundamental numbers on their website, in order to determine whether their public relations are compliant or not.
+* to be able to communicate directly with TimeCrest, no matter which page I am on.  
+
 ### Design Choices
+#### Fonts
+#### Icons
+#### Colours
+#### Styling
+#### Backgrounds
+
 ### Wireframes
 
+1. Home 
+2. about
+3. Services
+4. Contact
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
 
