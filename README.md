@@ -72,8 +72,18 @@ As a government officer, I want:
 
 ### Design Choices
 #### Fonts
+
+* The primary font is Montserrat due to its easy going round aspect. It is an easy-read, round, class and nice to read letter type. At the same time, it is also distinguising the website in regards to its market competition, in that they use more Serif oriented and square fonts.
+* The second font is Ubuntu, the latter is not used much throughout the project, but goes well with Montserrat. It will enable to highlight certain items and keep the same round aspect. The project is there to inspire trust and innovation, thus the design has a great role to play in it. By this is meant, the more classy and round the fonts, the better feeling it gives to the user. 
+
 #### Icons
+* All Icons in this project have been associated with their obvious meaning. Given that it is a money-driven Real Estate Fund, it focusses broadly on icons that encompass the underlying assets mentioned. No specific Icon with unique meaning has been used.
 #### Colours
+
+* Button colours
+* Footer Colours
+* General Colours
+
 #### Styling
 #### Backgrounds
 
