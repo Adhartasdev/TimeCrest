@@ -85,6 +85,14 @@ color: white;
     vertical-align: middle;
 }
 
+/* Our Investment Focus Section */
+.center-focus {
+    display: flex;
+    max-width: 50%;
+    max-height: 50%;
+    justify-content: center;
+    
+}
 
 /* Footer*/
 
