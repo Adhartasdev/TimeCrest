@@ -1,9 +1,58 @@
+
+/* Body & General */
 body {
     font-family: Montserrat, sans-serif;
 }
 
+p {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/* NavBar */
 
 #bold-brand {
     letter-spacing: 5px;
-    font-weight: 800ß;
+    font-weight: 600;
+}
+.padding-nav{
+    padding-bottom: 25px;
+    background-color: white;
+}
+/* Header Style  */
+
+.header-intro {
+padding-top: 100px;
+display: flex;
+height: 90vh;
+background-image: url("/workspace/TimeCrest/assets/Images/header-home.jpg");
+background-size: cover;
+color: white;
+}
+
+/* Three Services */
+
+.general-title {
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 700;
+    padding-bottom: 60px;
+    padding-top: 50px;
+}
+
+.service-box {
+    padding-right: 20px;
+}
+
+.service-box h2 {
+    font-size: 22px;
+    padding-bottom: 25px;
+    font-weight: 600;
+    font-family: Montserrat;
+}
+.service-box img {
+    padding-bottom: 25px;
+    box-shadow: black;
+    
 }
