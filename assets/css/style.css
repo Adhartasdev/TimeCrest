@@ -20,10 +20,14 @@ p {
     padding-bottom: 25px;
     background-color: white;
 }
+.nav-button {
+    background-color: #1378f5;
+    margin-left: 10px;
+}
 /* Header Style  */
 
 .header-intro {
-padding-top: 100px;
+padding-top: 150px;
 display: flex;
 height: 90vh;
 background-image: url("/workspace/TimeCrest/assets/Images/header-home.jpg");
@@ -37,17 +41,19 @@ color: white;
     text-align: center;
     font-family: Montserrat;
     font-weight: 700;
-    padding-bottom: 60px;
-    padding-top: 50px;
+    margin-bottom: 60px;
+    margin-top: 50px;
 }
 
 .service-box {
-    padding-right: 20px;
+    margin-right: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .service-box h2 {
     font-size: 22px;
-    padding-bottom: 25px;
+    margin-bottom: 25px;
     font-weight: 600;
     font-family: Montserrat;
 }
@@ -58,6 +64,7 @@ color: white;
 
 .read-more-button {
     background-color: #162438;
-    padding-top: 15px;
+    margin-top: 15px;
+    margin-bottom: 25px;
     font-family: Roboto;
 }
