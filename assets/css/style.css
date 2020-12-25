@@ -184,4 +184,36 @@ color: white;
 .margin-button-submit {
     margin-bottom: 100px;
 }
-/* Footer*/
+
+/* Facts | About Page*/
+
+.sbx-2{
+    text-align: center;
+}
+
+.icon-sbx {
+    margin-bottom: 15px;
+}
+
+/* Image & Text | About Page */
+
+.about-img-crest{
+    max-width: 675px;
+    max-height: 675px; 
+    margin-right: 25px;
+    margin-left: 25px;  
+}
+.text-about {
+    max-width: 700px;
+    max-height: 700px;  
+    margin: 50px 0px 50px 0px;
+
+}
+.text-about p {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Roboto;
+    text-align: justify;
+    margin-right: 25px;
+    margin-left: 25px;
+}
