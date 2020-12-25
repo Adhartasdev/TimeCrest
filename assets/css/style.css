@@ -96,6 +96,15 @@ color: white;
 .container-fit {
     margin-bottom:100px;
 }
+
+/*Contact form*/
+
+.contact-title{
+    padding-left: 11%;
+}
+.margin-button-submit {
+    margin-bottom: 25px;
+}
 /* Footer*/
 
 .footer-crest {
