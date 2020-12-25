@@ -1,5 +1,6 @@
 
 /* Body & General */
+
 body {
     font-family: Montserrat, sans-serif;
 }
@@ -15,6 +16,27 @@ h5 {
     font-family: Montserrat;
     font-weight: 400;
 }
+
+/* TimeCrest General Footer Style */
+.footer-crest {
+    background-color: #162438;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right:15px;
+}
+
+.icon-crest {
+    margin-right: 15px;
+}
+.fa-linkedin-in {
+    color:white;
+}
+.fa-instagram {
+    color: white;
+}
+
 /* NavBar */
 
 #bold-brand {
@@ -29,7 +51,19 @@ h5 {
     background-color: #1378f5;
     margin-left: 10px;
 }
-/* Header Style  */
+
+/*Contact form | General*/
+
+.contact-title{
+    padding-left: 11%;
+    margin-top: 100px;
+}
+.margin-button-submit {
+    margin-bottom: 100px;
+}
+
+
+/* Header - Home - Style  */
 
 .header-intro {
 padding-top: 150px;
@@ -49,6 +83,18 @@ margin-left: 7%;
     font-weight: 500;
     font-family: Montserrat;
 }
+
+/* Header - About - Services - Contact Style  */
+
+.header-intro-other {
+padding-top: 150px;
+display: flex;
+height: 50vh;
+background-image: url("/workspace/TimeCrest/assets/Images/header-home.jpg");
+background-size: cover;
+color: white;
+}
+
 /* Three Services */
 
 .general-title {
@@ -117,7 +163,7 @@ margin-left: 7%;
     background-color: #1378f5;
 }
 
-/* Our Investment Focus Section */
+/* Our Investment Focus Section | Home Page*/
 
 .center-focus {
     max-width: 350px;
@@ -130,7 +176,7 @@ margin-left: 7%;
     margin-bottom:100px;
 }
 
-/*Contact form*/
+/*Contact form | Home Page*/
 
 .contact-title{
     padding-left: 11%;
@@ -139,22 +185,3 @@ margin-left: 7%;
     margin-bottom: 100px;
 }
 /* Footer*/
-
-.footer-crest {
-    background-color: #162438;
-    color: white;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 15px;
-    padding-right:15px;
-}
-
-.icon-crest {
-    margin-right: 15px;
-}
-.fa-linkedin-in {
-    color:white;
-}
-.fa-instagram {
-    color: white;
-}
