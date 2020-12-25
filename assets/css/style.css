@@ -40,6 +40,15 @@ background-size: cover;
 color: white;
 }
 
+.jumbo-text {
+margin-top: 10%;
+margin-left: 7%;
+}
+
+.jumbo-text h1 {
+    font-weight: 500;
+    font-family: Montserrat;
+}
 /* Three Services */
 
 .general-title {
@@ -54,6 +63,7 @@ color: white;
     margin-right: 20px;
     padding-right: 15px;
     padding-left: 15px;
+    margin-bottom: 7%;
 }
 
 .service-box h2 {
@@ -75,21 +85,8 @@ color: white;
 }
 
 /* Condifence Statement Section | Home Page */
-.fact-statement {
-    color: white;
-    display: flex;
-    width: 100%;
-    height: 55vh;
-    text-align: center;
-    vertical-align: middle;
-    }
 
-#image-overlay-cta {
-  background-color: rgba(0, 14, 34, 0.712); /* Black background with opacity */
-  z-index: 2; 
-}
-
-/* The hero image */
+/* The hero image - source to be cited */
 .bgimage {
   width:100%;
   height:55vh;
@@ -105,18 +102,23 @@ color: white;
 }
 
 .bgimage h1 {
+  font-family: Montserrat;
   color:white;
 }
 
 .bgimage p {
   color:white;
+  font-size: 24px;
+  margin: 15px 0 15px 0;
 }
 
 .bgimage-button{
+    margin-top: 25px;
     background-color: #1378f5;
 }
 
 /* Our Investment Focus Section */
+
 .center-focus {
     max-width: 350px;
     max-height: 350px;
@@ -134,7 +136,7 @@ color: white;
     padding-left: 11%;
 }
 .margin-button-submit {
-    margin-bottom: 25px;
+    margin-bottom: 100px;
 }
 /* Footer*/
 
