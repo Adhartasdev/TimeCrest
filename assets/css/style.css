@@ -217,3 +217,10 @@ color: white;
     margin-right: 25px;
     margin-left: 25px;
 }
+
+/*  Accordion | Services Page */
+.services-accordion {
+    margin-right: 12%;
+    margin-left: 12%;
+    margin-bottom: 75px;
+}
