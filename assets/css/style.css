@@ -100,15 +100,20 @@ color: white;
   background-attachment: fixed;
   color: white;
   text-align: center;
+  padding-top: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
 }
+
 .bgimage h1 {
   color:white;
-  text-shadow:2px 2px #333;
 }
 
 .bgimage p {
   color:white;
-  text-shadow:2px 2px #333;
+}
+
+.bgimage-button{
+    background-color: #1378f5;
 }
 
 /* Our Investment Focus Section */
