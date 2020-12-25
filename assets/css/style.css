@@ -92,14 +92,21 @@ color: white;
 /* The hero image */
 .bgimage {
   width:100%;
-  height:500px;
+  height:55vh;
   background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
   background-attachment: fixed;
+  color: white;
+  text-align: center;
 }
-.bgimage h5 {
+.bgimage h1 {
+  color:white;
+  text-shadow:2px 2px #333;
+}
+
+.bgimage p {
   color:white;
   text-shadow:2px 2px #333;
 }
