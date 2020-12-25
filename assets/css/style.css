@@ -224,3 +224,6 @@ color: white;
     margin-left: 12%;
     margin-bottom: 75px;
 }
+.card-focus {
+    max-width: 60%;
+}
