@@ -16,6 +16,21 @@ h5 {
     font-family: Montserrat;
     font-weight: 400;
 }
+/* NavBar */
+
+#bold-brand {
+    letter-spacing: 5px;
+    font-weight: 600;
+    margin-left: 2%;
+}
+.padding-nav{
+    padding-bottom: 25px;
+    background-color: white;
+}
+.nav-button {
+    background-color: #1378f5;
+    margin-left: 10px;
+}
 
 /* TimeCrest General Footer Style */
 .footer-crest {
@@ -37,27 +52,12 @@ h5 {
     color: white;
 }
 
-/* NavBar */
-
-#bold-brand {
-    letter-spacing: 5px;
-    font-weight: 600;
-    margin-left: 2%;
-}
-.padding-nav{
-    padding-bottom: 25px;
-    background-color: white;
-}
-.nav-button {
-    background-color: #1378f5;
-    margin-left: 10px;
-}
 
 /*Contact form | General*/
 
 .contact-title{
     padding-left: 11%;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .margin-button-submit {
     margin-bottom: 100px;
@@ -78,13 +78,21 @@ color: white;
 .jumbo-text {
 margin-top: 10%;
 margin-left: 7%;
+position: relative;
 }
 
 .jumbo-text h1 {
     font-weight: 500;
     font-family: Montserrat;
 }
+.jumbo-text p {
+    font-weight: 400;
+    font-family: Montserrat;
+}
 
+.jumbo-button {
+    background-color: #1378f5;
+}
 /* Header - About - Services - Contact Style  */
 
 .header-intro-other {
@@ -125,7 +133,7 @@ color: white;
 }
 
 .read-more-button {
-    background-color: #162438;
+   background-color: #1378f5;
     margin-top: 15px;
     margin-bottom: 25px;
     font-family: Roboto;
@@ -134,6 +142,7 @@ color: white;
 /* Condifence Statement Section | Home Page */
 
 /* The hero image - source to be cited */
+
 .bgimage {
   width:100%;
   height:55vh;
@@ -145,7 +154,6 @@ color: white;
   color: white;
   text-align: center;
   padding-top: 100px;
-  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .bgimage h1 {
@@ -160,8 +168,9 @@ color: white;
 }
 
 .bgimage-button{
-    margin-top: 25px;
+    margin-top: 20px;
     background-color: #1378f5;
+    border: none;
 }
 
 /* Our Investment Focus Section | Home Page*/
@@ -174,9 +183,29 @@ color: white;
 }
 
 .container-fit {
-    margin-bottom:100px;
+    margin-bottom:50px;
+}
+.max-text-wh {
+    max-width: 60%;
 }
 
+.max-text-wh p{
+    margin-top: 20px;
+}
+
+.centered-focus {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+.centered-focus h3{
+    margin-top: 15px;
+    
+}
+.centered-focus p{
+    max-width: 300px;
+    margin-top: 15px;
+}
 /*Contact form | Home Page*/
 
 .contact-title{
