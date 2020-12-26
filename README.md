@@ -80,7 +80,7 @@ The general design choices have been made around simplicity, authenticity and tr
 #### Fonts
 
 * The primary font is Montserrat due to its easy going round aspect. It is an easy-read, round, class and nice to read letter type. At the same time, it is also distinguising the website in regards to its market competition, in that they use more Serif oriented and square fonts.
-* The second font is Ubuntu, the latter is not used much throughout the project, but goes well with Montserrat. It will enable to highlight certain items and keep the same round aspect. The project is there to inspire trust and innovation, thus the design has a great role to play in it. By this is meant, the more classy and round the fonts, the better feeling it gives to the user. 
+* The second font is Roboto, the latter is not used much throughout the project, but goes well with Montserrat. It will enable to highlight certain items and keep the same round aspect. The project is there to inspire trust and innovation, thus the design has a great role to play in it. By this is meant, the more classy and round the fonts, the better feeling it gives to the user. 
 
 #### Icons
 * All Icons in this project have been associated with their obvious meaning. Given that it is a money-driven Real Estate Fund, it focusses broadly on icons that encompass the underlying assets mentioned. No specific Icon with unique meaning has been used.
@@ -118,11 +118,27 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+### Languages Used
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap v5.0.0-beta1 :](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Montserrat' & 'Roboto' font into the style.css file which are used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
 
@@ -157,13 +173,25 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+-  Bootstrap full-width hero section with text and image [GitHub Gist - Adam de Haven](https://gist.github.com/adamdehaven/dceabb07450295fec6fc)
+
+-  [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+ 
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- All content written on this website is fictional and written by the Developer
 
 ### Media
-- The photos used in this site were obtained from ...
-
-### Acknowledgements
-
-- I received inspiration for this project from X
+The Photos used in this website were obtained from unsplash and the credits are listen below:
+- Photo by David Rodrigo on Unsplash https://unsplash.com/photos/Fr6zexbmjmc
+- Photo by Chris Liverani on Unsplash https://unsplash.com/photos/dBI_My696Rk
+- Photo by Scott Graham on Unsplash https://unsplash.com/photos/5fNmWej4tAA
+- Photo by Scott Graham on Unsplash https://unsplash.com/photos/OQMZwNd3ThU
+- Photo by Veliko Karachiviev on Unsplash https://unsplash.com/photos/hSvagWirWPA
+- Photo by Fred Moon on Unsplash https://unsplash.com/photos/fk50kc-DzSg
+- Photo by Tom Chen on Unsplash https://unsplash.com/photos/w3mEcHyuk_E
+- Photo by Paul Fiedler on Unsplashhttps://unsplash.com/photos/z4wuHkqnCPo
+- Photo by Scott Webb on Unsplash https://unsplash.com/photos/kAJE-3_4zHE
+- Photo by Annie Spratt on Unsplash https://unsplash.com/photos/tuJ3tXSayco
+- Photo by Alex Kotliarskyi on Unsplash https://unsplash.com/photos/QBpZGqEMsKg
+- Photo by Luke Besley on Unsplash https://unsplash.com/photos/k5l-zbRSPds
