@@ -129,8 +129,7 @@ color: white;
     font-family: Montserrat;
 }
 .service-box img {
-    padding-bottom: 25px;
-    box-shadow: black;   
+    padding-bottom: 25px;  
     
 }
 
@@ -155,7 +154,7 @@ color: white;
   background-attachment: fixed;
   color: white;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 120px;
 }
 
 .bgimage h1 {
