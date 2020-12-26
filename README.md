@@ -77,6 +77,7 @@ As a government officer, I want:
 
 ### Design Choices
 The general design choices have been made around simplicity, authenticity and trust. In finance, it is important to stay on the simple edge of design. However, that is what makes it tricky, the colours red, orange, yellow and even balck are not often used as overarching colours. It is important to stay on the light and blue and of the spectrum. The same goes with font-type, this project has aimed to differentiate itself from the competition by employing less serif oriented fonts and go with a more round variety. 
+
 #### Fonts
 
 * The primary font is Montserrat due to its easy going round aspect. It is an easy-read, round, class and nice to read letter type. At the same time, it is also distinguising the website in regards to its market competition, in that they use more Serif oriented and square fonts.
@@ -84,14 +85,17 @@ The general design choices have been made around simplicity, authenticity and tr
 
 #### Icons
 * All Icons in this project have been associated with their obvious meaning. Given that it is a money-driven Real Estate Fund, it focusses broadly on icons that encompass the underlying assets mentioned. No specific Icon with unique meaning has been used.
+
 #### Colours
 
-* Button colours
-* Footer Colours
-* General Colours
+The general website's colors are white and blue. Bellow some specifics:
+* Button colours: #1378f5
+* Footer Colour: #162438
+* Text: black
+* Backgrounds (non-image): white
 
-#### Styling
 #### Backgrounds
+
 
 ### Wireframes
 
@@ -173,6 +177,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+
 -  Bootstrap full-width hero section with text and image [GitHub Gist - Adam de Haven](https://gist.github.com/adamdehaven/dceabb07450295fec6fc)
 
 -  [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
@@ -190,7 +195,7 @@ The Photos used in this website were obtained from unsplash and the credits are 
 - Photo by Veliko Karachiviev on Unsplash https://unsplash.com/photos/hSvagWirWPA
 - Photo by Fred Moon on Unsplash https://unsplash.com/photos/fk50kc-DzSg
 - Photo by Tom Chen on Unsplash https://unsplash.com/photos/w3mEcHyuk_E
-- Photo by Paul Fiedler on Unsplashhttps://unsplash.com/photos/z4wuHkqnCPo
+- Photo by Paul Fiedler on Unsplash https://unsplash.com/photos/z4wuHkqnCPo
 - Photo by Scott Webb on Unsplash https://unsplash.com/photos/kAJE-3_4zHE
 - Photo by Annie Spratt on Unsplash https://unsplash.com/photos/tuJ3tXSayco
 - Photo by Alex Kotliarskyi on Unsplash https://unsplash.com/photos/QBpZGqEMsKg
