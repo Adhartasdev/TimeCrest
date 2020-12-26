@@ -70,7 +70,7 @@ h5 {
 padding-top: 150px;
 display: flex;
 height: 90vh;
-background-image: url("/workspace/TimeCrest/assets/Images/header-home.jpg");
+background-image: url("https://adhartasdev.github.io/TimeCrest/assets/Images/Header-intro.jpg");
 background-size: cover;
 color: white;
 }
