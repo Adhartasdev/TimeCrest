@@ -97,10 +97,10 @@ The general website's colors are white and blue. Bellow some specifics:
 
 ### Wireframes
 
-1. Home ![Wireframe Home]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Home-TimeCrest .png')
-2. About ![Wireframe About]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/About-TimeCrest .png)
-3. Services ![Wireframe Services]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Services-TimeCrest .png)
-4. Contact ![Wireframe Contact]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Contact-TimeCrest  .png)
+1.  ![Home Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Home-TimeCrest.png')
+2.  ![About Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/About-TimeCrest.png)
+3.  ![Services Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Services-TimeCre.png)
+4.  ![Contact Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Contact-TimeCrest.png)
 
 ## Features
 -   Responsive on all device sizes
