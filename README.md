@@ -97,10 +97,10 @@ The general website's colors are white and blue. Bellow some specifics:
 
 ### Wireframes
 
-1.  ![Home Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Home-TimeCrest.png')
-2.  ![About Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/About-TimeCrest.png)
-3.  ![Services Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Services-TimeCre.png)
-4.  ![Contact Page]('https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Contact-TimeCrest.png)
+1.  [Home Page](https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Home-TimeCrest.png)
+2.  [About Page](https://adhartasdev.github.io/TimeCrest/assets/Wireframes/About-TimeCrest.png)
+3.  [Services Page](https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Services-TimeCrest.png)
+4.  [Contact Page](https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Contact-TimeCrest.png)
 
 ## Features
 -   Responsive on all device sizes
@@ -144,15 +144,15 @@ The general website's colors are white and blue. Bellow some specifics:
 
 ### Media
 The Photos used in this website were obtained from unsplash and the credits are listen below:
-- Photo by David Rodrigo on Unsplash https://unsplash.com/photos/Fr6zexbmjmc
-- Photo by Chris Liverani on Unsplash https://unsplash.com/photos/dBI_My696Rk
-- Photo by Scott Graham on Unsplash https://unsplash.com/photos/5fNmWej4tAA
-- Photo by Scott Graham on Unsplash https://unsplash.com/photos/OQMZwNd3ThU
-- Photo by Veliko Karachiviev on Unsplash https://unsplash.com/photos/hSvagWirWPA
-- Photo by Fred Moon on Unsplash https://unsplash.com/photos/fk50kc-DzSg
-- Photo by Tom Chen on Unsplash https://unsplash.com/photos/w3mEcHyuk_E
-- Photo by Paul Fiedler on Unsplash https://unsplash.com/photos/z4wuHkqnCPo
-- Photo by Scott Webb on Unsplash https://unsplash.com/photos/kAJE-3_4zHE
-- Photo by Annie Spratt on Unsplash https://unsplash.com/photos/tuJ3tXSayco
-- Photo by Alex Kotliarskyi on Unsplash https://unsplash.com/photos/QBpZGqEMsKg
-- Photo by Luke Besley on Unsplash https://unsplash.com/photos/k5l-zbRSPds
+- [Photo by David Rodrigo on Unsplash](https://unsplash.com/photos/Fr6zexbmjmc)
+- [Photo by Chris Liverani on Unsplash](https://unsplash.com/photos/dBI_My696Rk)
+- [Photo by Scott Graham on Unsplash](https://unsplash.com/photos/5fNmWej4tAA)
+- [Photo by Scott Graham on Unsplash](https://unsplash.com/photos/OQMZwNd3ThU)
+- [Photo by Veliko Karachiviev on Unsplash](https://unsplash.com/photos/hSvagWirWPA)
+- [Photo by Fred Moon on Unsplash](https://unsplash.com/photos/fk50kc-DzSg)
+- [Photo by Tom Chen on Unsplash](https://unsplash.com/photos/w3mEcHyuk_E)
+- [Photo by Paul Fiedler on Unsplash](https://unsplash.com/photos/z4wuHkqnCPo)
+- [Photo by Scott Webb on Unsplash](https://unsplash.com/photos/kAJE-3_4zHE)
+- [Photo by Annie Spratt on Unsplash](https://unsplash.com/photos/tuJ3tXSayco)
+- [Photo by Alex Kotliarskyi on Unsplash](https://unsplash.com/photos/QBpZGqEMsKg)
+- [Photo by Luke Besley on Unsplash](https://unsplash.com/photos/k5l-zbRSPds)
