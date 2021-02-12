@@ -161,6 +161,11 @@ The site has been tested by 3 Users:
 * Hotel management expert, female, aged 24.
 * Financial management and Real Estate student, male, aged 19.
 
+## Deployment
+This site has been deployed using Github pages, the last version is to be found here: [TimeCrest](https://adhartasdev.github.io/TimeCrest)
+
+It has been deployed multiple times using the same version link above and has no local deployment available, as this was not necessary for the assignment. 
+
 ## Credits
 
 -  Bootstrap full-width hero section with text and image [GitHub Gist - Adam de Haven](https://gist.github.com/adamdehaven/dceabb07450295fec6fc)
