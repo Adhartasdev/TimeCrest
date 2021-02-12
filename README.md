@@ -161,6 +161,39 @@ The site has been tested by 3 Users:
 * Hotel management expert, female, aged 24.
 * Financial management and Real Estate student, male, aged 19.
 
+### General Questions to Test Users & Developer:
+
+
+* Does the navbar appear correctly on all screens?
+* Are the Navbar links are correctly set-up throughout the website?
+* Do the button work and do they display an effect when pressed?
+* Are the icons well displayed throughout the website, and are they logical?
+* Is the general website content relevant?
+* Are the images well displayed through the website? If not, where not?
+* Are the contact forms displayed correctly and intuitively correct?
+* Do external links open in separate tabs?
+* Is the text with background images through the website visible?
+* Do the social media Icons work?
+* Is the website responsive on mobile?
+* Are the call-to-actions clearly present?
+* Is there a clear intuitive use of colors?
+* Is the structure of the website understood and logical?
+
+| Issues spoted by Users & Developer         | Fix         |
+| ----------- | ----------- |
+| Navbar button returned negative by validator      | Issue fixed by using a proper bootsrap element role=button. **Resolved.**       |
+| Button colors were too basic from bootstrap   | Changed it by adding css to  the bootstrap btn class **Resolved.**  |
+
+
+### Specific Test User UX response:
+
+* **Hotel management expert, female, aged 24**:
+She stated that as a real estate professional she perfectly understood the range of services that the site offered and that it was logical to her to both navigate and understand the different pages on the website. In addition, she stated that the contact form should not be placed on each website, just as the Developer’s mentor. So that was corrected. 
+
+* **Financial management and Real Estate student, male, aged 19**:
+He stated that the website was clear and intuitive in its details. He suggested that further developments, including a portfolio would be a plus. However, the purpose of the website is clearly demonstrated and inspires confidence in the business at hand. 
+
+
 ## Deployment
 This site has been deployed using Github pages, the last version is to be found here: [TimeCrest](https://adhartasdev.github.io/TimeCrest)
 
