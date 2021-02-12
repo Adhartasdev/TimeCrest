@@ -80,8 +80,8 @@ The general design choices have been made around simplicity, authenticity and tr
 
 #### Fonts
 
-* The primary font is Montserrat due to its easy going round aspect. It is an easy-read, round, class and nice to read letter type. At the same time, it is also distinguising the website in regards to its market competition, in that they use more Serif oriented and square fonts.
-* The second font is Roboto, the latter is not used much throughout the project, but goes well with Montserrat. It will enable to highlight certain items and keep the same round aspect. The project is there to inspire trust and innovation, thus the design has a great role to play in it. By this is meant, the more classy and round the fonts, the better feeling it gives to the user. 
+* The primary font is Montserrat due to its easy going round aspect. It is an easy-read, round, class and nice to read letter type. At the same time, it is also distinguising the website in regards to its market competition, in that they use more Serif oriented and square fonts. [Click here to see font on google.](https://fonts.google.com/specimen/Montserrat?preview.text=&preview.text_type=custom&query=montserrat)
+* The second font is Roboto, the latter is not used much throughout the project, but goes well with Montserrat. It will enable to highlight certain items and keep the same round aspect. The project is there to inspire trust and innovation, thus the design has a great role to play in it. By this is meant, the more classy and round the fonts, the better feeling it gives to the user. [Click here to see font on google.](https://fonts.google.com/specimen/Roboto?preview.text_type=custom&query=roboto)
 
 #### Icons
 * All Icons in this project have been associated with their obvious meaning. Given that it is a money-driven Real Estate Fund, it focusses broadly on icons that encompass the underlying assets mentioned. No specific Icon with unique meaning has been used.
@@ -118,7 +118,7 @@ The general website's colors are white and blue. Bellow some specifics:
 * Confidence section - Business information displayed in three columns to inspire confidence and demonstrate a result driven attitude. With number of investors, AUM and performance yield. This is followed by a nice Commercial Real Estate picture, and firm description and history.
 * Social link footer section - Providing social links and the “rights reserved texts”
 
-### services.html
+ ### services.html
 
 * Navigation section - Responsive navbar design which keeps its uniformity on both mobile and desktop devices featuring a collapsible hamburger menu designed with bootstrap for mobile, Company logo (aligned-left) and a contact button which leads the user to contact form.
 * Page title header section - Displays page title and relevant background image. 
@@ -127,21 +127,21 @@ The general website's colors are white and blue. Bellow some specifics:
 * Investment Focus Section - Displays the 4 types of deals that can be made with TimeCrest through bootstrap cards and unsplash selected/relevant pictures.
 * Social link footer section - Providing social links and the “rights reserved texts”
 
-### contact.html
+ ### contact.html
 * Navigation section - Responsive navbar design which keeps its uniformity on both mobile and desktop devices featuring a collapsible hamburger menu designed with bootstrap for mobile, Company logo (aligned-left) and a contact button which leads the user to contact form.
-* Contact form - Displays interactive and connected contact form, allowing users to correspond with the business. 
+* Contact form - Displays interactive and connected contact form, allowing users to correspond with the business. Has the right placeholder text.
 * Social link footer section - Providing social links and the “rights reserved texts”
 
  ## Future features to implement:
 
 ### Major features 
  
- * Additional Real Estate portfolio page with a sample assets
+ * Additional real estate portfolio page with a sample assets
  * Additional news page for deals, conferences and updates.
 
 ### Minor features
-* Adding a media section with company film and relevant introductions in the about page
-* Adding some management team pictures in the about page
+* Adding a media section with company film and relevant introductions in the about page.
+* Adding some management team pictures in the about page.
  
 
 ## Technologies Used
@@ -174,6 +174,7 @@ The general website's colors are white and blue. Bellow some specifics:
 
  * The HTML was tested by using the https://validator.w3.org/ 
  * The CSS was tested using the Jigsaw validator https://jigsaw.w3.org/
+ * Both returned no errors, except for bootstrap related CSS classes not featured on the website but obtained via CDN links.
 
 ### Display testing 
 
@@ -188,7 +189,7 @@ The site has been tested across different devices and displays to verify and ens
 
 ### Cross-browser Compatability Testing
 
-The site renders well on both Chrome and Safari. Test Users were asked to load and navigate on both browser when using their computers.
+The site renders well on both Chrome and Safari. Test Users were asked to load and navigate on both browsers when using their computers.
 
 ### Test Users
 
@@ -196,7 +197,7 @@ The site has been tested by 3 Users:
 
 * Developer, male, aged 24.
 * Hotel management expert, female, aged 24.
-* Financial management and Real Estate student, male, aged 19.
+* Financial management and real estate student, male, aged 19.
 
 ### General Questions to Test Users & Developer:
 
@@ -207,7 +208,7 @@ The site has been tested by 3 Users:
 * Are the icons well displayed throughout the website, and are they logical?
 * Is the general website content relevant?
 * Are the images well displayed through the website? If not, where not?
-* Are the contact forms displayed correctly and intuitively correct?
+* Are the contact forms displayed correctly and are they intuitively correct?
 * Do external links open in separate tabs?
 * Is the text with background images through the website visible?
 * Do the social media Icons work?
@@ -219,16 +220,18 @@ The site has been tested by 3 Users:
 | Issues spoted by Users & Developer         | Fix         |
 | ----------- | ----------- |
 | Navbar button returned negative by validator      | Issue fixed by using a proper bootsrap element role=button. **Resolved.**       |
-| Button colors were too basic from bootstrap   | Changed it by adding css to  the bootstrap btn class **Resolved.**  |
+| Users found it confusing to have contact form on each page   | Removed the contact forms from all pages except the contact page **Resolved.**  |
+| No placeholder text was found after deployment in the contact form email section  | corrected by adding placeholder text **Resolved.**  |
+| Buttons on home page did not link the read more to another page | added href and implemented bootstrap buttons to all **Resolved.**  |
 
 
 ### Specific Test User UX response:
 
 * **Hotel management expert, female, aged 24**:
-She stated that as a real estate professional she perfectly understood the range of services that the site offered and that it was logical to her to both navigate and understand the different pages on the website. In addition, she stated that the contact form should not be placed on each website, just as the Developer’s mentor. So that was corrected. 
+She stated that as a real estate professional she perfectly understood the range of services that the site offered and that it was logical for her to both navigate and understand the different pages on the website. In addition, she stated that the contact form should not be placed on each website, just as the Developer’s mentor. So that was corrected. 
 
 * **Financial management and Real Estate student, male, aged 19**:
-He stated that the website was clear and intuitive in its details. He suggested that further developments, including a portfolio would be a plus. However, the purpose of the website is clearly demonstrated and inspires confidence in the business at hand. 
+He stated that the website was clear and intuitive in its details. He suggested that further developments, including a portfolio would be a plus. However, the purpose of the website is clearly demonstrated and inspires confidence in the business at hand. He admitted that as an investor this would demonstrate performance and that the website has proper CTAs.
 
 
 ## Deployment
@@ -244,7 +247,7 @@ It has been deployed multiple times using the same version link above and has no
  
 
 ### Content
-- All content written on this website is fictional and written by the Developer
+- All content written on this website is fictional and written by the Developer. 
 
 ### Media
 The Photos used in this website were obtained from unsplash and the credits are listen below:
@@ -260,3 +263,4 @@ The Photos used in this website were obtained from unsplash and the credits are 
 - [Photo by Annie Spratt on Unsplash](https://unsplash.com/photos/tuJ3tXSayco)
 - [Photo by Alex Kotliarskyi on Unsplash](https://unsplash.com/photos/QBpZGqEMsKg)
 - [Photo by Luke Besley on Unsplash](https://unsplash.com/photos/k5l-zbRSPds)
+- [Photo by Sean Pollock on Unsplash](https://unsplash.com/photos/PhYq704ffdA)
