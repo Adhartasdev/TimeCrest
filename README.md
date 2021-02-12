@@ -103,9 +103,46 @@ The general website's colors are white and blue. Bellow some specifics:
 4.  [Contact Page](https://adhartasdev.github.io/TimeCrest/assets/Wireframes/Contact-TimeCrest.png)
 
 ## Features
--   Responsive on all device sizes
--   Interactive elements 
 
+  ### index.html
+
+ * Navigation section - Responsive navbar design which keeps its uniformity on both mobile and desktop devices featuring a collapsible hamburger menu designed with bootstrap for mobile, Company logo (aligned-left) and a contact button which leads the user to contact form.
+ * Callout section - large background image wih left-aligned callout text as well as call to action **learn more!** anchor driven button.
+ * Our services section - Featuring three main services of the business, images and description
+ * Call to action section - Centered and button-driven CTA with nice infrastructure background. 
+ * Social link footer section - Providing social links and the “rights reserved texts”
+
+ ### about.html
+* Navigation section - Responsive navbar design which keeps its uniformity on both mobile and desktop devices featuring a collapsible hamburger menu designed with bootstrap for mobile, Company logo (aligned-left) and a contact button which leads the user to contact form.
+* Page title header section - Displays page title and relevant background image. 
+* Confidence section - Business information displayed in three columns to inspire confidence and demonstrate a result driven attitude. With number of investors, AUM and performance yield. This is followed by a nice Commercial Real Estate picture, and firm description and history.
+* Social link footer section - Providing social links and the “rights reserved texts”
+
+### services.html
+
+* Navigation section - Responsive navbar design which keeps its uniformity on both mobile and desktop devices featuring a collapsible hamburger menu designed with bootstrap for mobile, Company logo (aligned-left) and a contact button which leads the user to contact form.
+* Page title header section - Displays page title and relevant background image. 
+* Our services section - Displays 3 services, as seen in home page format and has a bootstrap accordion for detailed description. 
+* Quote section - Shows authenticity by quoting the financial times and showing business ranking. Done with background image of london bridge and centered text.  
+* Investment Focus Section - Displays the 4 types of deals that can be made with TimeCrest through bootstrap cards and unsplash selected/relevant pictures.
+* Social link footer section - Providing social links and the “rights reserved texts”
+
+### contact.html
+* Navigation section - Responsive navbar design which keeps its uniformity on both mobile and desktop devices featuring a collapsible hamburger menu designed with bootstrap for mobile, Company logo (aligned-left) and a contact button which leads the user to contact form.
+* Contact form - Displays interactive and connected contact form, allowing users to correspond with the business. 
+* Social link footer section - Providing social links and the “rights reserved texts”
+
+ ## Future features to implement:
+
+### Major features 
+ 
+ * Additional Real Estate portfolio page with a sample assets
+ * Additional news page for deals, conferences and updates.
+
+### Minor features
+* Adding a media section with company film and relevant introductions in the about page
+* Adding some management team pictures in the about page
+ 
 
 ## Technologies Used
 
