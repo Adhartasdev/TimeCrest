@@ -131,6 +131,35 @@ The general website's colors are white and blue. Bellow some specifics:
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
+## Testing
+
+### Validation
+
+ * The HTML was tested by using the https://validator.w3.org/ 
+ * The CSS was tested using the Jigsaw validator https://jigsaw.w3.org/
+
+### Display testing 
+
+The site has been tested across different devices and displays to verify and ensure good responsiveness. Fortunately, it passed all tests and the test users were able to navigate properly on all of them. Below are listed the displays and devices tested on:
+
+* 13" Macbook pro display 
+* 15"Macbook pro display 
+* Wide display LG 29WK500/50s 2560x1080/60Hz
+* iPhone X/Xr
+* iPhone 6/7/8 and plus models
+* iPad Air
+
+### Cross-browser Compatability Testing
+
+The site renders well on both Chrome and Safari. Test Users were asked to load and navigate on both browser when using their computers.
+
+### Test Users
+
+The site has been tested by 3 Users:
+
+* Developer, male, aged 24.
+* Hotel management expert, female, aged 24.
+* Financial management and Real Estate student, male, aged 19.
 
 ## Credits
 
